@@ -2,7 +2,7 @@
 
 Everyone loves a good puzzle\! (Well, at least everyone who likes to
 program computers.) We made a program for a nifty little puzzle in lab
-5, and now I think we should expand it a bit\!
+6, and now I think we should expand it a bit\!
 
 We will add to the mix two puzzles which are also peg puzzles. We will
 add the cracker barrel triangle solitaire game and the starburst peg
