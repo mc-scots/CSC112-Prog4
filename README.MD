@@ -46,23 +46,21 @@ puzzle board are:
 
 ## Your Program
 
-Your program should do the following. When the program starts, it should
-greet the user with a menu which allows them to select which puzzle the
-wish to play. The menu choice is selected by using the arrow keys and
-then pressing enter on the selected item. My menu looks like this:
+Your program should do the following. When the program starts, it
+should greet the user with a window with three buttons which allows
+them to select which puzzle they wish to play. 
 
-![images/PegPuzzleMenu.png](images/PegPuzzleMenu.png "PegPuzzleMenu.png")
-
-When a puzzle is selected, you should print out instructions for how the
-puzzle is played. The user will then press any key to continue past the
-instructions. The user interface for the puzzle will then be displayed,
-and the user can try their hand at playing the puzzle.
+When a puzzle is selected, you should pop up a window with
+instructions for how the puzzle is played. The user will then press
+any key to continue past the instructions. The user interface for the
+puzzle will then be displayed, and the user can try their hand at
+playing the puzzle.
 
 Of course, we also want to implement that handy solve function\! Use
-backtracking to solve the puzzle from any position when the user presses
-the "S" key. You can use lab 5 as a guide for this. In fact, most of the
-code from lab 5 will be copied over to act as a starting point for this
-program.
+backtracking to solve the puzzle from any position when the user
+presses the solve button. You can use lab 5 as a guide for this. In
+fact, most of the code from lab 5 will be copied over to act as
+a starting point for this program.
 
 Clearly, there is some wonderful widget play going on here. You will
 need to design your widgets carefully, and make sure you understand how
